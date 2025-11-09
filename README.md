@@ -1,2 +1,13 @@
-# web3-sre-roadmap
-Just learning how to build solid and scalable infra for better web3 foundations.
+ My Web3 SRE Roadmap
+
+**Goal**: Learning nodes and infrastructure management and automations.
+**Start**: November 2025
+
+## Week 1
+- [x] GitHub profile
+- [x] First PR
+- [ ] Linux basics
+- [ ] Terraform intro
+
+---
+*Updated daily*
