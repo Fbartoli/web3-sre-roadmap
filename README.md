@@ -6,8 +6,8 @@
 ## Week 1
 - [x] GitHub profile
 - [x] First PR
-- [ ] Linux basics
-- [ ] Terraform intro
+- [x] Linux basics
+- [ ] Terraform intro -> https://learn.hashicorp.com/terraform
 
 ---
 *Updated daily*
